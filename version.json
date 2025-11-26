@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1.2",
+  "version": "1.0.0.0",
   "windows_url": "https://github.com/kfxtrades/kfx-notes-releases/releases/download/v1.0.1/KFXNotes_Setup_v1.0.1.exe",
   "macos_url": "https://github.com/kfxtrades/kfx-notes-releases/releases/download/v1.0.1/KFXNotes_v1.0.1.dmg",
-  "release_notes": "What's New:\n• Fixed bug with image uploads\n• Added new chart types\n• Improved performance\n• Updated UI design\n• Fixed crash on startup\n• Added dark mode improvements\n• And many more..."
+  "release_notes": ""
 }
