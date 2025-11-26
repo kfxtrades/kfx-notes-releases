@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1.2",
-  "windows_url": "https://github.com/kfxtrades/kfx-notes-releases/releases/download/v1.0.1/KFXNotes_Setup_v1.0.1.exe",
-  "macos_url": "https://github.com/kfxtrades/kfx-notes-releases/releases/download/v1.0.1/KFXNotes_v1.0.1.dmg",
-  "release_notes": "Testing\n Title change\n Color changes"
+  "version": "1.0.0.0",
+  "windows_url": "https://github.com/kfxtrades/kfx-notes-releases/releases/download/v1.0.0/KFXNotes_Setup_v1.0.0.exe",
+  "macos_url": "https://github.com/kfxtrades/kfx-notes-releases/releases/download/v1.0.0/KFXNotes_v1.0.0.dmg",
+  "release_notes": ""
 }
